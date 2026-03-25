@@ -1,0 +1,477 @@
+===============================================================================
+TIER 1 — DIRECTLY RELEVANT (cite in flagship paper)
+CSA, acromial morphology, glenoid version/morphology, force vectors, rotator
+cuff biomechanics, tissue adaptation, natural history of cuff disease, scapular
+kinematics/dyskinesis, posterior instability morphology, rTSA biomechanics/
+outcomes related to scapula, Wolff's Law/mechanostat, tendon biology, OA biomechanics
+===============================================================================
+
+1911_Codman_JSES_Complete_Rupture_Supraspinatus_Tendon.pdf
+1933_Keyes_AnnSurg_Observations_Rupture_Supraspinatus_Tendon.pdf
+1965_Rothman_JBJS_Vascular_Anatomy_Rotator_Cuff.pdf
+1970_Rathbun_JBJS-Br_Microvascular_Pattern_Rotator_Cuff.pdf
+1972_Neer_JBJS_Anterior_Acromioplasty_Chronic_Impingement.pdf
+1973_Saha_ActaOrthopScand_Mechanics_Elevation_GH_Joint.pdf
+1976_Poppen_JBJS_Normal_Abnormal_Motion_Shoulder_Article.pdf
+1976_Poppen_JBJS_Normal_Abnormal_Motion_Shoulder.pdf
+1978_Dvir_JBiomech_Shoulder_Complex_Elevation_Mechanism_Approach.pdf
+1978_Poppen_CORR_Forces_Glenohumeral_Joint_Abduction.pdf
+1983_Neer_JBJS_Cuff_Tear_Arthropathy.pdf
+1983_Neer_JBJS_Impingement_Lesions.pdf
+1985_Cofield_JBJS_Rotator_Cuff_Disease_Shoulder.pdf
+1985_Grace_SportsMed_Muscle_Imbalance_Extremity_Injury.pdf
+1987_Gerber_CORR_Subcoracoid_Space_Anatomic_Study.pdf
+1990_Ogata_JBJS_Acromial_Enthesopathy_Rotator_Cuff_Tear.pdf
+1991_Warner_AJSM_Scapulothoracic_Motion_Moire_Analysis.pdf
+1992_Clark_JBJS_Tendons_Ligaments_Capsule_Rotator_Cuff.pdf
+1992_Harryman_JBJS_Rotator_Interval_Capsule_Motion_Stability.pdf
+1992_Iannotti_JBJS_Normal_Glenohumeral_Relationships_Anatomy.pdf
+1992_Soslowsky_JBJS_Articular_Geometry_GH_Joint.pdf
+1992_Soslowsky_JOrthopRes_In_Situ_Contact_Areas_GH_Joint.pdf
+1992_Zuckerman_JSES_Coracoacromial_Arch_Anatomy_RCT.pdf
+1993_Burkhart_Arthroscopy_Rotator_Crescent_Cable_Anatomy.pdf
+1993_Lippitt_JSES_Glenohumeral_Stability_Concavity_Compression.pdf
+1994_Burkhart_Arthroscopy_Paradox_RCR_vs_Debridement_Biomechanics.pdf
+1994_Flatow_AJSM_Excursion_Rotator_Cuff_Under_Acromion.pdf
+1994_Goutallier_CORR_Fatty_Muscle_Degeneration_Cuff_Ruptures.pdf
+1994_Itoi_JBJS-Br_Dynamic_Anterior_Stabilisers_Shoulder_Abduction_2.pdf
+1994_Itoi_JBJS-Br_Dynamic_Anterior_Stabilisers_Shoulder_Abduction.pdf
+1994_Itoi_JSES_Stabilizing_Function_Biceps_Unstable_Shoulders.pdf
+1994_Ballmer_JSES_TSA_Glenoid_Surface_Contact.pdf
+1994_Lippitt_JSES_In_Vivo_Laxity_Normal_Unstable_GH.pdf
+1994_Yamanaka_CORR_Joint_Side_Tear_Rotator_Cuff.pdf
+1995_Banas_JSES_Lateral_Acromion_Angle_Rotator_Cuff.pdf
+1995_Jobe_JSES_Limits_Glenohumeral_Motion_Joint_Geometry.pdf
+1996_Bigliani_CORR_Glenohumeral_Stability_Passive_Active.pdf
+1996_Ludewig_JOSPT_3D_Scapular_Orientation_Humeral_Elevation.pdf
+1996_Soslowsky_JSES_Animal_Model_Rotator_Cuff_Disease.pdf
+1997_Morrison_JBJS_Nonoperative_Treatment_Subacromial_Impingement.pdf
+1997_Mottram_ManTher_Dynamic_Stability_Scapula.pdf
+1997_Soslowsky_OrthopClinNorthAm_Biomechanics_Rotator_Cuff.pdf
+1998_Kibler_AJSM_Role_Scapula_Athletic_Shoulder_Function.pdf
+1998_Rhoad_SkeletalRadiol_In_Vivo_3D_Shoulder_Kinematics_Analysis.pdf
+1998_Romeo_CORR_Humeroscapular_Motion_Interface.pdf
+1999_Fuchs_JSES_Fatty_Degeneration_Rotator_Cuff_CT_MRI.pdf
+1999_Jensen_JBJS_Rotator_Cuff_Tear_Arthropathy_Review.pdf
+1999_Lukasiewicz_JOSPT_3D_Scapular_Position_Shoulder_Impingement.pdf
+1999_Metcalf_JSES_Posteroinferior_Glenoplasty_Glenoid_Shape_Stability.pdf
+1999_Walch_JArthroplasty_Glenoid_Morphology_Primary_GHOA.pdf
+1999_Williams_CORR_Anatomy_Scapulothoracic_Articulation.pdf
+2000_Davidson_JSES_Rotator_Cuff_Repair_Tension_Functional_Outcome.pdf
+2000_Fukuda_JSES_Partial_Thickness_RC_Tears_Codman_Review.pdf
+2000_Jost_JSES_Anatomy_Functional_Aspects_Rotator_Interval.pdf
+2000_Levine_AJSM_Pathophysiology_Shoulder_Instability.pdf
+2001_Churchill_JSES_Glenoid_Size_Inclination_Version_Anatomy.pdf
+2001_Yamaguchi_JSES_Natural_History_Asymptomatic_Rotator_Cuff_Tears.pdf
+2002_Buchler_ClinBiomech_FE_Model_Shoulder_Normal_vs_OA.pdf
+2002_Edwards_JBJS_Rotator_Cuff_Disease_Shoulder_Arthroplasty_OA.pdf
+2002_Gerber_CORR_Classification_Glenohumeral_Joint_Instability.pdf
+2002_Parsons_JOrthopRes_RC_Tears_Reaction_Forces_GH_Joint.pdf
+2002_SanchezVillagra_Naturwissenschaften_Evolutionary_Origin_Mammalian_Scapula.pdf
+2002_Schiffern_AJSM_AP_Centering_Humeral_Head_Glenoid_In_Vivo.pdf
+2002_Soslowsky_AnnBiomedEng_RC_Tendinosis_Animal_Model_Overuse.pdf
+2002_Walch_JSES_Static_Posterior_Subluxation_Young_Adult_OA.pdf
+2003_Burkhart_Arthroscopy_Disabled_Throwing_Shoulder_Pathoanatomy.pdf
+2003_Goutallier_JSES_Fatty_Degeneration_Outcomes_RCR.pdf
+2003_Hashimoto_CORR_Degeneration_Primary_Cause_Rotator_Cuff_Tear.pdf
+2004_Gerber_JBJS_Tendon_Release_Delayed_Repair_Rotator_Cuff_Sheep.pdf
+2004_Nyffeler_BJJ_Retrieved_Delta_III_Shoulder_Prosthesis_Analysis.pdf
+2004_Nyffeler_JBJS_Humeral_Prosthesis_Height_Biomechanics_GH_Abduction.pdf
+2004_Sirveaux_BJJ_Grammont_Inverted_TSA_Massive_Cuff_Rupture_2.pdf
+2004_Sirveaux_BJJ_Grammont_Inverted_TSA_Massive_Cuff_Rupture.pdf
+2004_Tetreault_JOrthopRes_Glenoid_Version_Rotator_Cuff_Tears.pdf
+2004_Visotsky_JBJS_Cuff_Tear_Arthropathy_Pathogenesis_Classification_Treatment.pdf
+2004_Williams_JBJS_Rotator_Cuff_Tears_Why_Do_We_Repair.pdf
+2005_Blaine_JSES_Molecular_Pathophysiology_Subacromial_Bursitis.pdf
+2005_Boileau_JSES_Grammont_Reverse_Prosthesis_Design_Rationale_Biomechanics.pdf
+2005_Carpenter_ClinBiomech_Biceps_Tendon_Changes_RCT_Shoulders.pdf
+2005_Kwon_JSES_3D_CT_Analysis_Glenoid_Anatomy.pdf
+2005_Nyffeler_JSES_Glenoid_Component_Positioning_Reverse_Delta_III.pdf
+2005_Robinson_JBJS_Recurrent_Posterior_Shoulder_Instability.pdf
+2006_Frankle_JBJS_Reverse_Prosthesis_GH_Arthritis_Severe_Cuff_Deficiency.pdf
+2006_Matsen_JBJS_Reverse_Total_Shoulder_Arthroplasty_ICL.pdf
+2006_Nyffeler_JSES_Glenoid_Component_Version_Humeral_Displacement.pdf
+2006_Ward_CORR_Rotator_Cuff_Muscle_Architecture_GH_Stability.pdf
+2006_Wolff_JAAOS_Partial_Thickness_Rotator_Cuff_Tears.pdf
+2007_Ecklund_JAAOS_Rotator Cuff Tear Arthropathy.pdf
+2007_Karelse_ClinAnat_Pillars_of_the_Scapula.pdf
+2007_Unknown_JBJS_Outcomes of Nonop Management Massive Rct.pdf
+2007_Yamamoto_JSES_Yamamoto Offtrackconcept.pdf
+2008_By_JBJS_Humeral Insertion of the Supraspinatus.pdf
+2008_Cuff_JBJS_Reverse Shoulder Arthroplasty for the Treatment.pdf
+2009_Gerber_JSES_Static_Posterior_Humeral_Subluxation_TSA.pdf
+2009_Ludewig_JOSPT_Scapular_Kinematics_GH_Joint_Pathologies.pdf
+2009_Mark_JSES_Glenoid Morphology in Reverse Shoulder.pdf
+2009_Nobuyuki_AJSM_Risk Factors for Tear Progression.pdf
+2009_Walch_JSES_Acromial_Insufficiency_Reverse_Shoulder.pdf
+2010_Barbara_CORR_Symposium Current Concepts in Rotator Cuff.pdf
+2010_Bedi_JBJS_Massive Tears of Rc Current Concepts.pdf
+2010_By_JBJS_Location and Initiation of Degenerative.pdf
+2010_Knowles_JBJS_Knowles 2010 Orthopaedic Surgery Tendinopathy and.pdf
+2010_Mologne_AJSM_Ajsm 2011 Posterior Instability of the Shoulder.pdf
+2010_Paula_Spine_Shoulder Impingement Biomechanical Considerations.pdf
+2010_Richard_CORR_Symposium Current Concepts in Rotator Cuff.pdf
+2010_Ryuzo_JSES_Functional Anatomy of the Superior Glenohumeral.pdf
+2010_Symptomatic_JBJS_Washington University School of Medicine.pdf
+2011_Boileau_CORR_Biographical_Sketch_Paul_Grammont.pdf
+2011_Emmanuel_CORR_Grammont_s Idea the Story of Paul Grammont_s.pdf
+2011_Emmanuel_CORR_Symposium Reverse Total Shoulder Arthroplasty.pdf
+2011_Flatow_CORR_History_Reverse_Total_Shoulder_Arthroplasty.pdf
+2011_Harrison_JAAOS_Subacromial Impingement Syndrome.pdf
+2011_Lynn_CORR_Symposium Reverse Total Shoulder Arthroplasty.pdf
+2011_Matthew_CORR_Symposium Reverse Total Shoulder Arthroplasty.pdf
+2011_Nitin_Arthroscopy_Comparative Effectiveness of Operative Versus Non.pdf
+2011_Page_CORR_Phil 2011 Injury the International Journal of.pdf
+2011_Pascal_CORR_Symposium Reverse Total Shoulder Arthroplasty.pdf
+2011_Walker_CORR_Frankle Corr 2011 How Rtsa Works.pdf
+2012_Akimoto_JSES_The Superior Capsule of the Shoulder Joint.pdf
+2012_Dominik_AJSM_Retraction of Supraspinatus Muscle.pdf
+2012_Harreld_JAAOS_Massive Cuff Tear Whento Consider Rsta.pdf
+2012_Teruhisa_AJSM_Superior Capsule Reconstruction.pdf
+2013_Armstrong_JBJS_Design Evolution of Glenoid Component.pdf
+2013_Jason_JBJS_Glenoid Component Retroversion Is Associated.pdf
+2013_Kuhn_JSES_The 2013 Jses Effectiveness of Physical Therapy.pdf
+2013_Mesiha_JBJS_Jbjs 2013 Mesiha Rotator Crescent and Cable.pdf
+2013_Moor_BJJ_Vol. 95 B No. 7 July 2013 1.pdf
+2013_Nazeem_JSES_Reverse Shoulder Arthroplasty Components and.pdf
+2013_Peter_Spine_Motor Control Retraining Exercises for Shoulder.pdf
+2013_Randall_JSES_Scapular Fractures after Reverse Shoulder.pdf
+2013_Road_CORR_Unknown 2013 Int Orthop Human Evolution and Tears.pdf
+2014_Beat_JSES_Relationship of Individual Scapular Anatomy 1.pdf
+2014_Feeley_JSES_Tsa vs. Rtsa.pdf
+2014_Frederick_CORR_Clinical Research.pdf
+2014_Zurich_CORR_Gerber 2013 J Orthop Res Supraspinatus Tendon.pdf
+2014_Matthew_JSES_What Is the Effect of Postoperative Scapular.pdf
+2014_McElvany_AJSM_Rotator_Cuff_Repair_Factors_Outcomes.pdf
+2014_Millett_JAAOS_Jaaos 2014 Posterosuperior Rc Tears.pdf
+2014_Millett_JAAOS_Posterosuperior Rotator Cuff Tears.pdf
+2014_Puskas_JSES_1 S2.0 S1058274613001985 Main.pdf
+2014_Robert_JBJS_Structural Integrity after Rotator Cuff Repair.pdf
+2014_Schwartz_JSES_Predictive_Factors_Postop_Motion_RSA.pdf
+2014_Sebastia-Forcada_JSES_RSA_vs_Hemiarthroplasty_Proximal_Humerus_Fractures.pdf
+2015_Ladermann_IntOrthop_Humeral_Stem_Design_Position_ROM_RSA.pdf
+2015_Michael_JSES_The Effects of Glenoid Wear Patterns on Patients.pdf
+2015_Unknown_Spine_Rtsa 2015 Spine S Invited Review.pdf
+2015_Unknown_Spine_Viehöfer 2014 Spine Glenohumeral Joint Reaction.pdf
+2015_Zurich_CORR_Critical 2015 Orthopedics a Larger Critical.pdf
+2015_Zurich_CORR_Journal 2015 Orthopedics a Larger Critical_1.pdf
+2015_Zurich_CORR_Viehöfer 2015 Orthopedics a Larger Critical.pdf
+2016_Christian_AJSM_Muscle Degeneration Associated.pdf
+2016_Davide_JSES_Predominance of the Critical Shoulder Angle in the.pdf
+2016_Do_AJSM_Evaluation of Repair Tension in.pdf
+2016_Unknown_CORR_Rts a for Management of Fxs.pdf
+2016_Garrigues_JBJS_Current Controversis Reverse Tsa.pdf
+2016_Gibbons_Spine_Muscle Architectural Changes after Massive Human.pdf
+2016_Kuhn_AJSM_John 2016 Orthopedics Www.amjorthopedics.com.pdf
+2016_Portland_CORR_Denard 2016 Orthopedics Finite Element Analysis.pdf
+2016_Portland_CORR_Journal 2016 Orthopedics Finite Element Analysis.pdf
+2017_Arnar_JSES_The Critical Shoulder Angle Is Associated with.pdf
+2017_Brolin_CORR_Hamada_Classification_Massive_RCT.pdf
+2017_Cuff_JBJS_Reverse_Shoulder_for_Cuff_Deficiency_10yr.pdf
+2017_Ernstbrunner_JBJS_RTSA_Massive_Irreparable_RCT_Under_60.pdf
+2017_Itoi_EFORTOpenRev_On_Track_Off_Track_Shoulder_Lesions.pdf
+2017_Mantell_JSES_Mantell2017 Critical Shoulder Angle.pdf
+2017_Nicholson_JSES_Tsa Severe Posterior Glenoid Wear.pdf
+2017_Peter_JSES_Walch B0 Glenoid Pre Osteoarthritic Posterior.pdf
+2017_Tokish_JSES_Pseudoparalysis.pdf
+2017_Unknown_CORR_Andril 2015 Int Orthop Linear Relationship.pdf
+2018_Achilleas_JSES_The Lateralization and Distalization Shoulder.pdf
+2018_Collin_JBJS_Commentary Durability of Mass Rct.pdf
+2018_Conservation_CORR_Glenohumeral 2018 Unknown Ecology and Evolution..pdf
+2018_Felix_AJSM_Relationship between Deltoid and.pdf
+2018_History_CORR_Tendon 2018 Unknown Rotator Cuff Repair M Tao and.pdf
+2018_Indications_JBJS_Scr Jbjs Reviews.pdf
+2018_Jobin_JBJS_Clinical and Mri Outcomes10yearsafter Massive Rct.pdf
+2018_Kissenberth_JBJS_Anatomic Total Shoulder B2glenoids.pdf
+2018_Ladermann_IntOrthop_Best_Glenoid_Configuration_Onlay_RSA.pdf
+2018_Peter_JBJS_The Effect of Rotator Cuff Repair on Natural.pdf
+2018_Unknown_CORR_Journal 2017 J Orthop Res Critical Shoulder Angle.pdf
+2019_Boileau_JSES_Pascal 2017 Unknown the Reverse Shoulder.pdf
+2019_Friedman_JAAOS_Scapular Notching in Reverse Total Shoulder.pdf
+2019_Helen_AJSM_The Natural History of Full Thickness 1.pdf
+2019_Jieun_AJSM_The Rotator Cuff Healing Index.pdf
+2019_Keener_JAAOS_Degenerative Rotator Cuff Tears Refining Surgical.pdf
+2019_Pascal_AJSM_The Effect of Tendon Delamination.pdf
+2019_Rationale_JAAOS_Rationale for Biologic.pdf
+2019_Shoulder_Arthroscopy_Ba in Gi Et Al. Jisakos 2019463-70..pdf
+2019_Teruhisa_AJSM_Superior Capsule Reconstruction 1.pdf
+2019_Werthel_IntOrthop_Lateralization_RSA_Descriptive_Analysis.pdf
+2020_Kennon_JSES_Primary_rTSA_Medialized_vs_Lateralized_10yr.pdf
+2020_Sarav_JBJS_A Commentary by Sarav S. Shah Md Is.pdf
+2020_Unknown_CORR_Parry 2020 Unknown Contents Lists Available at.pdf
+2021_Goetti_EFORTOpenRev_Biomechanics_Anatomic_Reverse_Shoulder_Arthroplasty.pdf
+2021_Sport_CORR_Tsa 2021 Unknown Unknown.pdf
+2021_Trends_JBJS_Trends in Rotator Cuff Surgery Research through.pdf
+2022_Satoshi_AJSM_Excessively High Repair Tension.pdf
+2022_Publisher_Spine_Citation Roche C.p. Reverse.pdf
+2023_Christian_JBJS_Correction of Static Posterior Shoulder.pdf
+2023_Fabian_AJSM_A Systematic Review of Long Term.pdf
+2023_Michael_JSES_Evaluation of Survivorship of Asymptomatic.pdf
+2023_Prevalence_CORR_John 2023 Injury Prevalence Natural History and.pdf
+2024_Gedik_ActaOrthopTraumatolTurc_STAM_Evaluation_Classification_Treatment.pdf
+2024_Hochreiter_JSES_Bettina 2023 Unknown Posterior Shoulder Stability.pdf
+2024_Jay_JBJS_Optimizing Muscle Tendon Lengths in Reverse Total_1.pdf
+2024_William_Spine_From Neer to Now E 80 Years of Shoulder.pdf
+2025_Mike_JSES_Journal Pre Proof.pdf
+
+===============================================================================
+TIER 2 — SUPPORTING (cite in treatise or as background)
+Rotator cuff repair techniques/outcomes, shoulder arthroplasty design,
+instability surgery, anatomy studies, muscle architecture, biomechanical
+cadaveric studies, rehabilitation
+===============================================================================
+
+1955_Neer_JBJS_Articular_Replacement_Humeral_Head.pdf
+1965_Debeyre_BJJ_Repair_Ruptures_Rotator_Cuff.pdf
+1982_Clayton_CORR_Prosthetic_Arthroplasties_Shoulder.pdf
+1983_Cofield_CORR_Unconstrained_Total_Shoulder_Prostheses.pdf
+1984_Cofield_JBJS_Total_Shoulder_Arthroplasty_Neer_Prosthesis.pdf
+1988_Franklin_JArthroplasty_Glenoid_Loosening_Total_Shoulder.pdf
+1988_Neer_JBJS_Glenoid_Bone_Grafting_TSA.pdf
+1990_Bigliani_Arthroscopy_Anatomical_Study_Suprascapular_Nerve.pdf
+1990_Gerber_JBJS_Arterial_Vascularization_Humeral_Head.pdf
+1991_Gibb_JSES_Capsular_Venting_Glenohumeral_Laxity.pdf
+1991_Harryman_JBJS_Rotator_Cuff_Repairs_Functional_Results.pdf
+1991_Matsen_JSES_Presidential_Address_ASES_Tenth_Anniversary.pdf
+1992_Cooper_JBJS_Anatomy_Histology_Vascularity_Glenoid_Labrum.pdf
+1992_Harryman_JSES_Laxity_Normal_GH_Joint_In_Vivo.pdf
+1992_Pearl_JSES_Humeroscapular_Positions_Shoulder_ROM.pdf
+1993_Arntz_JBJS_Prosthetic_Replacement_Shoulder_RC_Defects.pdf
+1993_Meister_JOSPT_RC_Injuries_Overhand_Athlete.pdf
+1993_Wilk_JOSPT_Rehabilitation_Athletic_Shoulder.pdf
+1994_Gerber_JBJS-Br_Mechanical_Strength_Rotator_Cuff_Repairs.pdf
+1995_Rockwood_JBJS_Debridement_Irreparable_Lesions_Rotator_Cuff.pdf
+1995_Warner_JBJS_Biceps_Brachii_Superior_Stability_GH_Joint.pdf
+1996_Hertel_JSES_Lag_Signs_Diagnosis_Rotator_Cuff_Rupture.pdf
+1996_Pagnani_JSES_Long_Head_Biceps_Glenohumeral_Stability.pdf
+1996_Williams_CORR_Anatomic_Histologic_MRI_Shoulder.pdf
+1996_Williams_JSES_Hemiarthroplasty_Cuff_Deficient_Shoulders.pdf
+1997_Deutsch_AJSM_Traumatic_Tears_Subscapularis.pdf
+1998_Gartsman_JBJS_Arthroscopic_Repair_Full_Thickness_RC_Tears.pdf
+1998_Iannotti_OrthopClinNorthAm_TSA_Factors_Prosthetic_Design.pdf
+1998_Schenk_JAAOS_Multidirectional_Instability_Diagnosis_Management.pdf
+1998_Waters_JBJS_Glenohumeral_Deformity_Brachial_Plexus_Palsy.pdf
+1999_Klimkiewicz_JSES_AC_Capsule_Restraint_Posterior_Clavicle_Translation.pdf
+2000_Kuhn_AJSM_Ligamentous_Restraints_External_Rotation_Throwing.pdf
+2000_Nwakama_JSES_Semiconstrained_TSA_Arthritis_Massive_RCT.pdf
+2000_Sanders_AJSM_Imaging_Evaluation_Glenohumeral_Instability.pdf
+2001_Rittmeister_JSES_Grammont_Reverse_TSA_Rheumatoid_Arthritis.pdf
+2001_SanchezSotelo_JBJS_Hemiarthroplasty_GH_Arthritis_Cuff_Deficiency.pdf
+2001_Weldon_JSES_Intrinsic_Stability_Polyethylene_Glenoid_Components.pdf
+2002_Dugas_JSES_Anatomy_Dimensions_Rotator_Cuff_Insertions.pdf
+2002_Godeneche_JSES_Prosthetic_Replacement_Shoulder_OA_268.pdf
+2002_Hayes_JSES_Reliability_Methods_Assessing_Shoulder_Strength.pdf
+2002_Walch_JBJS_GH_Prosthetic_Mismatch_Glenoid_Radiolucent_Lines.pdf
+2003_Fitzpatrick_Arthroscopy_Rotator_Interval_Anatomy_Pathology_Treatment.pdf
+2003_Gerber_JBJS_Mechanical_Strength_Arthroscopic_RCR_In_Vitro.pdf
+2004_Burkhart_AnnBiomedEng_Margin_Convergence_Rotator_Cuff_Repair.pdf
+2004_Gomoll_BookChapter_Shoulder_Injuries_Throwing_Athletes.pdf
+2005_Boileau_JBJS_Arthroscopic_Repair_Supraspinatus_Tendon_Healing.pdf
+2005_Harman_JSES_Initial_Glenoid_Fixation_Reverse_TSA_Biomechanics.pdf
+2005_Iannotti_JSES_Prosthetic_Positioning_Total_Shoulder_Arthroplasty.pdf
+2005_Matsen_JOrthopRes_Healing_Reamed_Glenoid_Metal_Hemiarthroplasty.pdf
+2005_Sanders_AJSM_Systematic_Approach_MRI_Shoulder_Injuries.pdf
+2006_Burkhart_JAAOS_Arthroscopic_Rotator_Cuff_Repair.pdf
+2006_Kim_AJSM_Single_Row_vs_Double_Row_Rotator_Cuff.pdf
+2006_Millett_JAAOS_Rehabilitation_Rotator_Cuff_Evaluation_Based.pdf
+2007_Bufquin_BJJ_Reverse_Shoulder_Proximal_Humerus_Fractures_Elderly.pdf
+2007_Franta_JSES_282_Unsatisfactory_Shoulder_Arthroplasties.pdf
+2007_Fukuda_JOrthopSci_Trends_Modern_Shoulder_Surgery.pdf
+2007_Gerber_JBJS_Reverse_Delta_III_with_Latissimus_Dorsi_Transfer.pdf
+2007_Jeremiah_JSES_Nonprosthetic Glenoid Arthroplasty with Humeral 1.pdf
+2007_Krishnan_JBJS_Hemiarthroplasty_Biologic_Glenoid_Resurfacing.pdf
+2007_Lionel_JSES_Glenoid Bone Grafting with a Reverse Design.pdf
+2007_Michael_JSES_Locations for Screw FIxation Beyond the Glenoid.pdf
+2007_Mihata_Unknown_Teruhisa 2019 Injury This Open-access Article Is.pdf
+2007_Oh_CORR_Indications_Rotator_Cuff_Repair_Systematic_Review.pdf
+2007_Pascal_JSES_Original Articles.pdf
+2007_Sameer_JSES_Original Articles.pdf
+2008_By_JBJS_Reverse Shoulder Arthroplasty for the.pdf
+2008_By_JBJS_Treatment of Persistent Shoulder Pain with Sodium.pdf
+2008_Keener_JAAOS_OKU9_Shoulder_Elbow_Injuries_Athlete.pdf
+2008_Larson_JBJS_Larson2008.pdf
+2008_Levy_JBJS_Vol. 90 B No. 7 July 2008.pdf
+2008_Philippe_JSES_Latissimus Dorsi Transfer to Restore External.pdf
+2008_Robert_CORR_Symposium New Approaches to Shoulder Surgery.pdf
+2008_Sahajpal_JAAOS_Chronic Glenohumeral Dislocation.pdf
+2009_Dierickx_JSES_Biceps Varieties.pdf
+2009_Fabing_JAAOS_Jaaos 2009 Shoulder Arthroplasty Options.pdf
+2009_John_JSES_Review Articles.pdf
+2009_Louis_JSES_Featured Articles.pdf
+2009_Sonnabend_JBJS_The Journal of Bone and Joint Surgery.pdf
+2009_Unknown_CORR_Walch 2009 Injury Orthopaedics and Traumatology.pdf
+2010_Carla_JSES_Surgical Anatomy of the Axillary Nerve and Its.pdf
+2010_Farshad_IntOrthop_Reverse_TSA_Complications.pdf
+2010_Gowda_JBJS_Tx of Glenoid Bone Deficiency in Tsa.pdf
+2010_Nam_AJSM_Arthroscopic Rotator Cuff Repair Using.pdf
+2010_Nho_JAAOS_Long Head Biceps Tendinopathy.pdf
+2010_Pennsylvania_CORR_Samuel 2010 Injury Journal of Orthopaedic and.pdf
+2010_Snyder_Arthroscopy_Slap 2010 Arthroscopy Arthroscopy Classics.pdf
+2011_Cheung_JAAOS_Jaaos 2011 Complications in Reverse Tsa.pdf
+2011_Denard_JAAOS_Revision Rotator Cuff Repair.pdf
+2011_Pedowitz_JAAOS_Jaa Os 2011 Optimizing the Management of Rotator.pdf
+2012_Frank_JAAOS_The Hill Sachs Lesion Jaaos.pdf
+2012_Michael_JSES_Disorders of the Long Head of Biceps Tendon.pdf
+2012_Sears_JAAOS_Glenoid Bone Loss in Primary Tsa.pdf
+2013_Boyle_JSES_RSA_vs_Hemiarthroplasty_Proximal_Humerus_Fractures.pdf
+2013_Denard_Arthroscopy_Evolution_Suture_Anchors_Arthroscopic_RCR.pdf
+2013_Kyung_AJSM_Repair Integrity and Functional Outcome.pdf
+2013_Palrecha_CORR_Shoulder Mri Sports Health.pdf
+2013_Paxton_Arthroscopy_Shoulder Arthroscopy Basicprinciples Yellowjournal.pdf
+2013_Sperling_JAAOS_Jaaos 2013 Complications in Tsa.pdf
+2013_Unknown_CORR_Rtsa 2013 Int Orthop Arm Lengthening after.pdf
+2014_Buckley_JSES_Subscapularis_LTO_vs_Tenotomy_TSA.pdf
+2014_George_JBJS_Reverse S a for Tx of Prox Humerus Fxs Jbjs.pdf
+2014_Rouleau_JAAOS_Acute Traumatic Posterior Shoulder Dislocation.pdf
+2014_Roth_JBJS_Singlevs Double Row for Full Thickness Rtct Jbjs.pdf
+2014_Schrumpf_JBJS_Jaaos 2014 Management of Anterior Glenohumeral.pdf
+2014_Streubel_JAAOS_Anterior Glenohumeral Instability Jaaos.pdf
+2014_Umasuthan_JBJS_Exhibit Selection.pdf
+2014_Werner_JAAOS_Failed Slap Repair.pdf
+2014_Werner_JBJS_Biceps Tenodesis Jbjs Reviews.pdf
+2014_Youm_JAAOS_Acute Management of Shoulder Dislocations.pdf
+2015_Brabston_JBJS_Throwers Shoulder.pdf
+2015_Fabricant_JBJS_Open and Arthroscopic Anterior Shoulder.pdf
+2015_Frank_JBJS_Posterior Shoulder Instability Jbjs Reviews.pdf
+2015_Gobezie_CaseWestern_TSA_HHR_Rehab_Protocol.pdf
+2015_Jay_JBJS_A Prospective Evaluation of Survivorship of.pdf
+2015_Jobin_JAAOS_Job in Reverse for Management of Proximal Humerus.pdf
+2015_Johnson_JSES_Jses 2015 Shoulder Arthroplasty in Young Patients.pdf
+2015_Matsen_IntOrthop_Ream_and_Run.pdf
+2015_Parnes_ArthroscTech_Double_Pulley_Remplissage_Hill_Sachs.pdf
+2015_Pinkas_JAAOS_Glenoid Compinent in Tsa.pdf
+2015_Pinkas_JAAOS_Glenoid Component in Anatomic Tsa.pdf
+2015_Rott_JBJS_Lat Dorsi Transfer for Irreparable Rct.pdf
+2015_Teusink_JSES_Closed_Management_Dislocation_After_RSA.pdf
+2015_Unknown_JBJS_Opvs Nonop Tx of Ac Dislocation Jbjs Reviews.pdf
+2016_Bokor_MLTJ_Healing_Partial_Thickness_RC_Tears_Collagen_Implant.pdf
+2016_Capito_JBJS_Osteochondral Allograft Shoulder.pdf
+2016_Chalmers_JAAOS_Surgical Exposures of the Shoulder.pdf
+2016_Chamberlain_JAAOS_Whats New Ses 2017.pdf
+2016_Denard_Arthroscopy_Eor Volume 1 December 2016.pdf
+2016_Dominik_JSES_Lengthening of the Subscapularis Tendon as a.pdf
+2016_Gorbaty_CORR_Rockwood Classification.pdf
+2016_Matzkin_JAAOS_Swimmers Shoulder.pdf
+2016_Riboh_JBJS_Arthroscopic Management of Stiff Shoulder.pdf
+2016_Unknown_Arthroscopy_Patient Reported Outcomes after Use of a.pdf
+2016_Unknown_JOrthop_Post Op Protocol Bricham and Women_s Tsa.pdf
+2016_Warren_JSES_Nonoperative Treatment of Chronic Symptomatic 1 2.pdf
+2017_Bishop_JBJS_Comparison of Suture Techniques for Rcr.pdf
+2017_Carroll_JBJS_Subscap Tendon Tears.pdf
+2017_Extra_Arthroscopy_Editorial Commentary Subacromial Balloon Spacer.pdf
+2017_Keener_JAAOS_Humeral Implant in Tsa.pdf
+2017_Lambertsen_JSES_Peter 2017 Unknown Review Articles.pdf
+2017_Lazarus_JAAOS_Stemless Prosthesis for Total Shoulder.pdf
+2017_Medline_Unknown_Petrillo Reverse Shoulder Arthroplasty for.pdf
+2017_Moroder_JBJS_Pec Major Transfer Irreparable Rct.pdf
+2017_Philadelphia_JBJS_Glenohumeral Mismatch in Anatomic Total Shoulder.pdf
+2017_Provencher_JBJS_Current Treatment Options Glenohumeral Instability.pdf
+2017_Tashjian_JAAOS_Whats New Ses 2018.pdf
+2018_Cohen_JSES_Open Stabilization Gh Dislocations.pdf
+2018_Frank_JAAOS_Management of Biceps Tendon Pathology.pdf
+2018_Jauregui_JBJS_Reverse Periop Consideration and Complications.pdf
+2018_Leo_AJSM_Double Layer Rotator Cuff Repair.pdf
+2018_Logan_JSES_Neer Award 2018 Benzoyl Peroxide Effectively.pdf
+2018_Lukas_JSES_Long Term Results of Reverse Total Shoulder.pdf
+2018_Millett_JAAOS_Jaaos 2018 Millet Arthroscopic Management of.pdf
+2018_Parsons_JBJS_Arthroscopic Treatment of Labral Tears.pdf
+2018_Road_CORR_Anatomy 2018 Injury S Original Article.pdf
+2018_Schumaier_JBJS_The Failed Latarjet Jbjs Review.pdf
+2018_Seidl_JAAOS_Seidl Management of Articular Cartilage Defects.pdf
+2018_Sochacki_OJSM_Quality_Evidence_Top50_RCR_Articles.pdf
+2018_Southam_JBJS_Complications Following Arthroscopic Rotator Cuff.pdf
+2018_Unknown_Arthroscopy_Knee Surg Sports Traumatol Arthrosc 2018 26136-145.pdf
+2018_Unknown_JBJS_Humeral Stem Loosening Jbjs Reviews.pdf
+2018_Wiater_JBJS_Periprosthetic Shoulder Infections Jbjs Reviews.pdf
+2018_Woodmass_JBJS_Arthroscopic Tx of Massive Posterosuperior Rc Ts.pdf
+2019_Dominik_JBJS_Zurich Open Repository and.pdf
+2020_American_Arthroscopy_Rotator Cuff Repairs with and Without.pdf
+2020_Michael_Arthroscopy_Identifying the Axillary Nerve during Shoulder.pdf
+2020_Nottage_CORR_Clinical 2020 Cl in Anat Clinical Relevance of.pdf
+2021_Address_JBJS_Address Correspondence to David Kovacevic Md.pdf
+2021_John_JSES_The Subscapularis Sparing Windowed Anterior.pdf
+2021_Publisher_Spine_Clinical Medicine.pdf
+2022_Caroline_JSES_Short Term Outcomes and Survival of Pyrocarbon.pdf
+2022_John_AJSM_Long Term Results of Arthroscopic.pdf
+2022_Unknown_Arthroscopy_Editorial Commentary Corticosteroid Injections.pdf
+2022_Unknown_CORR_Publisher 2022 Unknown Citation Frank J.k..pdf
+2023_Brian_AJSM_Prospective Randomized Trial of Biologic.pdf
+2023_Extra_JBJS_Systematic Review.pdf
+2023_Licensee_Spine_Citation Bauer S. Ernstbrunner L.pdf
+2023_Unknown_Arthroscopy_Systematic Review.pdf
+2024_Stanborough_JAAOS_Magnetic Resonance Imaging of the Shoulder.pdf
+2025_Licensee_Arthroscopy_Academic Editors Vincenzo Denaro.pdf
+
+===============================================================================
+TIER 3 — NOT DIRECTLY RELEVANT
+Elbow-only topics, nerve injuries, fracture classification, case reports,
+implant-specific technical papers, non-shoulder topics
+===============================================================================
+
+1988_Loomer_Orthopedics_Axillary_Nerve_Anatomy_Capsular_Shift.pdf
+1993_Yaxley_AustJPhysio_Adverse_Neural_Tension_Tennis_Elbow.pdf
+1998_Oka_CORR_Debridement_Arthroplasty_Elbow_OA.pdf
+1999_Romeo_JAAOS_Suprascapular_Neuropathy.pdf
+2003_Ball_JBJS_Posterior_Branch_Axillary_Nerve_Anatomy.pdf
+2004_Degreef_ActaOrthopBelg_Debridement_Arthroplasty_Elbow_OA.pdf
+2004_Kim_Arthroscopy_Kims_Lesion_Posteroinferior_Labrum_Avulsion.pdf
+2004_Mehta_JAAOS_Posterolateral_Rotatory_Instability_Elbow.pdf
+2004_Price_JBJS_Axillary_Nerve_Shoulder_Joint_Capsule_Arthroscopic.pdf
+2004_Safran_AJSM_Nerve_Injury_Shoulder_Athletes_Part_1.pdf
+2005_Chen_JAAOS_Shoulder_Elbow_Injuries_Skeletally_Immature_Athlete.pdf
+2005_McKee_JBJS_Surgical_Protocol_Elbow_Terrible_Triad.pdf
+2005_SanchezSotelo_BJJ_Ligamentous_Repair_Reconstruction_PLRI_Elbow.pdf
+2006_Doornberg_JBJS_Fracture_Anteromedial_Facet_Coronoid_Process.pdf
+2006_Iannotti_CORR_Shoulder_Elbow_Fellowships.pdf
+2006_Kibler_ASES_Curriculum_Guide_Treatment_Shoulder_Injury.pdf
+2006_Tashjian_JAAOS_Complex_Elbow_Instability.pdf
+2006_Zlotolow_JAAOS_Surgical_Exposures_of_the_Humerus.pdf
+2007_Apaydin_ClinAnat_Axillary_Nerve_Anatomy_Anterior_Shoulder.pdf
+2007_By_JBJS_Copyright © 2007 by the Journal of Bone and Joint_4.pdf
+2007_By_JBJS_Copyright © 2007 by the Journal of Bone and Joint.pdf
+2007_Richards_Arthroscopy_Arthroscopic Debridement and Capsular Release for.pdf
+2007_Uz_JSES_Anatomic_Branch_Pattern_Axillary_Nerve.pdf
+2008_Boraiah_JOT_Anterolateral Acromial Approach for Prox Humerus.pdf
+2008_Calfee_JAAOS_Management of Lateral Epicondylitis.pdf
+2008_Steinmann_JAAOS_Coronoid Fractures.pdf
+2008_Steinmann_JAAOS_Tx of Periprosthetic Humerus Fxs.pdf
+2008_Unknown_Arthroscopy_Experimental Study.pdf
+2009_Unknown_Spine_Mri 2009 Spine Page Number Not for Citation.pdf
+2010_Sutton_JAAOS_Jaaos 2010 Surgical Treatment of Distal Biceps.pdf
+2011_Banerjee_JAAOS_Distal Clavicle Fxs.pdf
+2011_George_JAAOS_Hagl Aaos.pdf
+2011_Keener_JAAOS_Arthroscopic Managementof the Stiff Elbow.pdf
+2011_Kim_JAAOS_Jaaos 2011 Complications of Total Elbow.pdf
+2011_Unknown_Spine_Original Article 1.pdf
+2012_Anakwenze_JAAOS_Parsonage Turner Syndrome.pdf
+2012_Patrick_JAAOS_Current Concepts in the Surgical Management of.pdf
+2012_Sears_JAAOS_Aaos Post Traumatic Elbow Arthritis.pdf
+2012_Sears_JAAOS_Posttraumatic Elbow Arthritis in the Young Adult.pdf
+2013_Postacchini_CORR_Injury 2014 Elbow Arthroplasty Review.pdf
+2013_Ramsey_JAAOS_Jaaos 2013 Total Elbow Arthroplasty Current.pdf
+2013_Ramsey_JAAOS_Total Elbow Arthroplasty Current Options.pdf
+2013_Ricchetti_JBJS_Dx of Periprosthetic Infection after Tsa Jbjs.pdf
+2013_Rouleau_JAAOS_Proximal Ulna Fxs.pdf
+2014_Anakwenze_JBJS_Tommy John Jbjs Reviews.pdf
+2014_Bruce_JAAOS_Ucl Injuriesin the Throwing Athlete Jaaos.pdf
+2014_Patel_JBJS_Elbow Injuries Throwing Athlete Jbjs Reviews.pdf
+2014_Techniques_JAAOS_Elbow Athroscopy Jaaos.pdf
+2014_Techniques_JAAOS_Jaaos 2014 - Elbow Arthroscopy Indications.pdf
+2014_Unknown_Arthroscopy_Arch Orthop Trauma Surg 2014 1341279-1285.pdf
+2015_Amin_JAAOS_Medial Epicondylitis Jaaos.pdf
+2016_Chang_JAAOS_2016 Jaaos Comparison of Ucl Recon Techniques.pdf
+2016_Nashville_JBJS_Posttraumatic Elbow Stiffness.pdf
+2016_Unknown_CORR_Ocd Capitellum.pdf
+2017_Cantlon_JBJS_Type2radial Head Fractures.pdf
+2017_Justin_JBJS_Axillary Nerve Palsy and Deltoid.pdf
+2017_Karbach_JHS_Elbow_Instability_Anatomy_Biomechanics.pdf
+2017_Shanghai_JBJS_Elbow Contracture Dueto Ho.pdf
+2017_Welsink_JBJS_Total Elbow Arthroplasty.pdf
+2017_Zimmer_JBJS_Eval and Tx of Open Distal Humerus Fxs.pdf
+2016_Jawa_JBJS_Proximal Humerus Fxs Jbjs Review.pdf
+2018_Obremskey_JSES_Orif Proximal Humeral Fxs Surgical Technique.pdf
+2018_Raducha_JBJS_Ucl Injuries Throwing Athlete.pdf
+2018_Unknown_JBJS_Floating Shoulder Jbjs Reviews.pdf
+2018_Wiesel_JAAOS_Management of Midshaft Clavicle Fractures in.pdf
+2019_Unknown_CORR_Zachary 1999 Unknown Evolution of the Walch.pdf
+1992_Burkhead_JSES_Surgical_Anatomy_Axillary_Nerve.pdf
