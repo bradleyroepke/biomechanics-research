@@ -114,4 +114,27 @@ Several ideas in the framework don't have standard terminology:
 
 ---
 
+---
+
+## 2026-03-25: Gerber's Continuous Traction Work — The Therapeutic Test
+
+Gerber's group (Neer Award 2007, JSES 2009 + BMC Vet Res 2012) built a device that provides continuous musculotendinous traction at 1mm/day to chronically retracted rotator cuff in sheep. After 40 weeks of retraction and degeneration, 8/12 sheep were successfully elongated back to original length.
+
+The key quote from the paper: "Muscle homeostasis is regulated by different mechanical signals, primarily by active or passive tension applied on the tissue."
+
+This is the framework applied therapeutically:
+- Too fast stretching → fibrous tissue (wrong mechanical signal)
+- Slow continuous traction → contractile tissue regeneration (correct mechanical signal)
+- The tissue's response depends on the QUALITY of the mechanical information
+
+The companion paper (JSES 2009) reportedly shows reversal of fatty infiltration and restoration of muscle architecture. NEED TO READ.
+
+If confirmed, this is the strongest evidence that "irreversible" tissue adaptation can be reversed by restoring correct mechanical information — a direct clinical validation of the framework's core thesis.
+
+Also connects to Engler 2006: mechanical signal quality determines cell fate. And to Frost's mechanostat: the response depends on whether the signal is within the adaptive window.
+
+The clinical implication: maybe the reason cuff repairs fail isn't bad sutures or poor biology. Maybe it's that a single-stage repair tries to do in one operation what the tissue needs weeks of gradual mechanical re-education to accomplish.
+
+---
+
 *Add new ideas to this document as they emerge. Date each entry.*
