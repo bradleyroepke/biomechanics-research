@@ -127,7 +127,15 @@ This is the framework applied therapeutically:
 - Slow continuous traction → contractile tissue regeneration (correct mechanical signal)
 - The tissue's response depends on the QUALITY of the mechanical information
 
-The companion paper (JSES 2009) reportedly shows reversal of fatty infiltration and restoration of muscle architecture. NEED TO READ.
+**Companion paper (JSES 2009) — NOW READ. Key results:**
+- Pennation angle: COMPLETE normalization (55° chronic → 29.8° after traction vs 29° control, P = .575)
+- Sarcomerogenesis confirmed: fibers grew longer/thinner as new contractile protein added in series
+- Fatty infiltration: ARRESTED at Goutallier 1 (vs progressing to 2 in failed group) but NOT reversed
+- Atrophy: partially reversed (57% → 78% during traction, regressed to 64% during rehab)
+- Muscle fibers showed NO degeneration on histology/EM — viable, innervated, electrically excitable
+- Authors' key statement: changes are "architectural, not degenerative"
+- Tendon healed with scar, not regenerated tendon tissue
+- 33% technical failure rate in sheep; no functional strength measurements
 
 If confirmed, this is the strongest evidence that "irreversible" tissue adaptation can be reversed by restoring correct mechanical information — a direct clinical validation of the framework's core thesis.
 
