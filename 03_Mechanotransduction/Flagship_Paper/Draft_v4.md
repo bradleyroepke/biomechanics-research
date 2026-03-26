@@ -1,4 +1,4 @@
-# The Mechanical Environment and Shoulder Disease: How Scapular Morphology Determines Tissue Fate
+# A Mechanical Framework for Degenerative Shoulder Disease
 
 ---
 
