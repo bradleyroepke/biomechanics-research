@@ -247,4 +247,35 @@ The high-CSA/cuff tear phenotype clusters with specific associated pathologies: 
 
 ---
 
+## 2026-03-26: Ligamentization as Framework Proof
+
+ACL reconstruction with hamstring autograft: same cells, same genome, same patient, same blood supply. Only change = mechanical environment. The graft transforms from tendon to ligament-like tissue over 12-24 months. Collagen fiber diameter decreases, crimp pattern changes, type III/I ratio shifts, GAG content changes, mechanoreceptors appear that weren't present in the original tendon.
+
+This is Engler at the organ scale. The mechanical environment of the intercondylar notch directs progenitor cell fate just as substrate stiffness directs stem cell lineage.
+
+**The intrinsic/extrinsic distinction dissolves.** "Intrinsic degeneration" is tissue responding to its local environment. "Extrinsic impingement" is the morphological boundary condition creating that environment. They're not two causes. They're two descriptions of the same loop at different scales. Ligamentization proves this: you can't separate the tissue's response from the environment that drives it.
+
+---
+
+## 2026-03-26: Structures Supporting and Challenging the Framework
+
+**Strong support:**
+- Achilles enthesis organ: three distinct fibrocartilages, each matching its local mechanical environment
+- Calcaneal spurs: bone growing in the direction of the tensile vector (Wolff's Law visible)
+- Intervertebral disc: type I collagen in tension zones (annulus) grading to type II + aggrecan in compression zones (nucleus) — molecular composition precisely tracks mechanical environment within one organ
+- Meniscus: outer cells stiffer/ligament-like (tension zone), inner cells softer/chondrocyte-like (compression zone)
+- Heterotopic ossification: progenitor cells reading altered substrate stiffness, committing to osteogenic fate per Engler
+
+**Partial challenge:**
+- Dupuytren's: progression is mechanical but initiation appears chemical/genetic
+- Adhesive capsulitis: fibrotic phase is mechanical (adapting to silence) but inflammatory trigger unclear
+- OCD: occurs at stress concentration sites but adolescent age distribution suggests developmental vulnerability
+- Trigger finger: mechanical component but systemic risk factors (diabetes, RA) suggest non-mechanical initiators
+
+**Active challenge:**
+- De Quervain's: can develop postpartum without mechanical provocation (hormonal trigger)
+- Ganglion cysts: formation mechanism unclear, can occur without obvious mechanical correlate
+
+---
+
 *Add new ideas to this document as they emerge. Date each entry.*
