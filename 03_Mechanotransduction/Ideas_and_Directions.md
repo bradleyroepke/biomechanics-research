@@ -228,4 +228,23 @@ The clinical implication: maybe the reason cuff repairs fail isn't bad sutures o
 
 ---
 
+---
+
+## 2026-03-26: Associated Pathology Clustering and the CA Ligament
+
+The high-CSA/cuff tear phenotype clusters with specific associated pathologies: biceps pathology, CA ligament changes, AC joint arthritis, superior labral tears. The low-CSA/OA phenotype does NOT show these associations. This clustering is the cascading consequence of the initial force environment propagating through the system.
+
+**The CA ligament as framework exemplar:**
+- Connects two parts of the same bone (coracoid + acromion, both scapula) — described as unique
+- Shared with hominoids but not other primates (1979 J Anat) — tied to overhead/locomotor function
+- Regenerates after resection: Levy 2001 (JSES), 10/10 revision patients had histologically normal regenerated ligament. Takes >3 years for full mechanical properties.
+- Functions as anterosuperior restraint (Wellmann 2008: resection → significant increase in anterior and superior translation)
+- Kuhn: may exist specifically because hominoid shoulder evolved for throwing, generating the forces it restrains
+
+**The framework in one structure:** Morphology (scapular shape) → mechanical demand (anterosuperior restraint) → evolution solved with structure (CA ligament) → body maintains through mechanotransduction (regeneration after resection). Remove it, body rebuilds it, because the mechanical signal persists.
+
+**Key insight for the paper:** Associated pathologies aren't independent comorbidities. They're the expected downstream consequences of the initial morphologically-determined force environment, propagating through the connected system in a predictable sequence.
+
+---
+
 *Add new ideas to this document as they emerge. Date each entry.*
