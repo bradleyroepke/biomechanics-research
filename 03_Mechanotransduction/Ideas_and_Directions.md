@@ -116,6 +116,64 @@ Several ideas in the framework don't have standard terminology:
 
 ---
 
+## 2026-03-25: Cross-Joint Universality — The Pattern Repeats Everywhere
+
+Searched for morphology-predicts-pathology patterns beyond the shoulder. Found the same logic at every joint:
+
+- **Spine:** Pelvic incidence (fixed, congenital) predicts degenerative pathology. PI-LL mismatch → adjacent segment disease (OR 10.6). Different PI values → degeneration at different levels. Spondylolisthesis associated with high PI + increased shear at lumbosacral junction.
+- **Knee:** Posterior tibial slope predicts ACL tears (12% increased risk per degree) AND graft failure after reconstruction. Systematic review confirmed (MD 1.64°, p < 0.01).
+- **Hip:** Femoral neck-shaft angle + acetabular morphology predict OA pattern. Coxa valga + shallow acetabulum → laterally directed forces → OA.
+- **Patellofemoral:** Q-angle associated with PF pain, subluxation, chondromalacia (though evidence messier than other joints).
+
+**Key insight:** CSA is not an isolated finding. It's one instance of a general principle: congenital skeletal geometry determines lifetime force distribution, which drives tissue adaptation. PI for spine, tibial slope for knee, CSA for shoulder. Nobody has connected these into a single principle across joints.
+
+---
+
+## 2026-03-25: Yoga, Hypermobility, and the Framework
+
+**Yoga:** Systematic mechanical intervention providing sustained end-range loading across the continuous connective tissue network. Works through Davis's Law (tissue remodels along imposed demand) + sarcomerogenesis (Gerber showed sustained tension adds sarcomeres in series). Explains distant effects (hip openers helping back pain) through network force redistribution.
+
+**Hypermobility/MDI:** The framework's edge case that strengthens the argument.
+- Constitutionally reduced prestress → lower stability ratios everywhere → narrower margins before subluxation
+- Muscles must provide MORE compression to compensate for LESS passive restraint
+- Symptoms are fatigue-dependent (margin narrows as dynamic stabilizers tire)
+- Multiple joints affected (systemic tissue compliance = systemic narrow margins)
+- Surgery often fails because it addresses focal lesions, not the global compliance issue
+- Treatment is neuromuscular (stabilization training), not structural — because the tissue isn't the problem, the baseline mechanical environment is
+- Standard yoga (end-range stretching) may be counterproductive — these patients need mid-range stability, not more range
+
+**Framework prediction for spine:** Hypermobile patients who get fused should develop adjacent segment disease FASTER than non-hypermobile patients. Has anyone studied this?
+
+---
+
+## 2026-03-25: RA — Honest Boundary Definition
+
+RA hits small joints first (MCPs, PIPs), NOT the most loaded joints. This DOES NOT fit a purely mechanical model. Primary driver is immunological.
+
+BUT: within RA, mechanics still determines the pattern. Weight-bearing joint destruction carries worst functional consequences. Ulnar drift follows unresisted force vectors across MCP joints. The fire is immunological; the pattern is mechanical.
+
+This sharpens the framework: mechanics is not always the primary cause, but it is always a determinant of the pattern. The framework applies fully to degenerative conditions, partially to inflammatory conditions (as a modifier), and not at all to infectious/neoplastic conditions.
+
+---
+
+## 2026-03-25: The Patient Intervention Question
+
+What can patients actually change if morphological thresholds are fixed?
+
+**Thresholds are probably not changeable** (genetically determined mechanostat set points per Frost).
+
+**But distance from threshold IS changeable:**
+1. Scapulothoracic function (changes how morphology is presented to the joint)
+2. Load management (cumulative dose, not just peak force)
+3. Systemic health (smoking OR 4.0, diabetes, metabolic syndrome modulate tissue capacity)
+4. Posture and habitual positioning (dynamic glenoid version during daily activities)
+5. Strength and conditioning (dynamic controllers of the force environment)
+6. General fitness (muscle endurance determines how long dynamic compensation lasts before fatigue narrows the margin)
+
+**The clinical message:** You can't change the shape of the hill. You can keep the ball further from the edge.
+
+---
+
 ## 2026-03-25: Molecular Archaeology — Literature Search Update
 
 Searched Scopus/PubMed for existing work on site-specific molecular profiling of tendon. More exists than we initially thought, but the specific study we proposed has NOT been done.
