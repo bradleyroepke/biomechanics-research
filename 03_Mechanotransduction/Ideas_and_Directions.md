@@ -116,6 +116,31 @@ Several ideas in the framework don't have standard terminology:
 
 ---
 
+## 2026-03-25: Molecular Archaeology — Literature Search Update
+
+Searched Scopus/PubMed for existing work on site-specific molecular profiling of tendon. More exists than we initially thought, but the specific study we proposed has NOT been done.
+
+**What EXISTS:**
+- Achilles tendon insertion vs midsubstance molecular comparison: Type II collagen + aggrecan mRNA present in compressed fibrocartilage zones, absent from tensile midsubstance (Waggett 1998). Versican shows opposite pattern.
+- Disser et al. 2022 (AJSM): "Achilles Tendons Display Region-Specific Transcriptomic Signatures Associated With Distinct Mechanical Properties" — region-specific transcriptomics of Achilles
+- Single-cell + spatial transcriptomics of human tendinopathy (BMC Biology 2023) — mapped cell heterogeneity and spatially distinct transcriptional programs
+- Cyclic compression upregulates aggrecan synthesis 200-450% in fetal tendon cells (Koob) — the mechanism proven in vitro
+- Supraspinatus regional proteoglycan mapping: aggrecan concentrates in compression zones under coracoacromial arch (PMC 2012)
+- RNA-seq of torn vs intact cuff (Tashjian 2020): 3000+ differentially expressed genes; smaller tears cluster with hypoxia genes (89% healing); larger tears with inflammation (0% healing)
+- 2025 bioRxiv preprint: spatial + single-cell transcriptomics of human tendons across lifespan
+
+**What does NOT exist:**
+- Articular vs bursal surface biopsy from SAME patient's supraspinatus during cuff repair with side-by-side proteomic/transcriptomic comparison
+- Spatial transcriptomics of the supraspinatus specifically
+- Any study connecting regional molecular variation to scapular morphology (CSA) or the broader mechanical adaptation framework
+- Any study framing regional molecular differences as "mechanical encoding" rather than incidental variation
+
+**The real opportunity:** The molecular data exists in the tendon biology silo. The CSA data exists in the clinical shoulder silo. Nobody has connected them. Spatial transcriptomics technology now exists to map the entire torn supraspinatus stump at single-cell resolution and correlate transcriptional programs with local mechanical environment predicted by patient-specific morphology.
+
+**Potential collaborators needed:** Someone with spatial transcriptomics capability and a tissue bank from cuff repairs.
+
+---
+
 ## 2026-03-25: Gerber's Continuous Traction Work — The Therapeutic Test
 
 Gerber's group (Neer Award 2007, JSES 2009 + BMC Vet Res 2012) built a device that provides continuous musculotendinous traction at 1mm/day to chronically retracted rotator cuff in sheep. After 40 weeks of retraction and degeneration, 8/12 sheep were successfully elongated back to original length.
