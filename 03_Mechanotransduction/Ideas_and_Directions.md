@@ -247,6 +247,38 @@ The high-CSA/cuff tear phenotype clusters with specific associated pathologies: 
 
 ---
 
+## 2026-03-26: Greater Tuberosity Angle — Sub-Tendon Resolution
+
+Asked from first principles: should tuberosity depression predict articular-side partial tears? Literature search revealed something more specific:
+
+- **Large greater tuberosity angle → bursal-sided partial tears** (2018 JSES)
+- **Large CSA → articular-sided partial tears**
+
+Two different morphological parameters driving two different tear types at two different surfaces of the SAME tendon. CSA (scapular) determines the shear environment compressing the undersurface. Tuberosity angle (humeral) determines the wrapping/impingement pattern on the bursal surface.
+
+This is the framework operating at the resolution of individual tissue surfaces within a single structure. Partial tear location is not random. It's determined by which morphological parameter dominates the local force environment at each surface.
+
+**Note:** Original prediction was partially wrong (predicted tuberosity → articular tears, but data shows tuberosity → bursal tears). The refinement strengthens rather than weakens the framework because it demonstrates greater specificity than predicted. Different morphological parameters at different anatomic levels produce different effects at different tissue surfaces. That's more consistent with a real mechanism than with coincidence.
+
+---
+
+## 2026-03-26: The Regeneten Reinterpretation
+
+Smith & Nephew markets Regeneten as "bioinductive." The framework suggests it works as a mechanical environment modifier:
+
+1. Substrate stiffness in tendon-forming range directing progenitor cell fate (Engler principle)
+2. Protection from excessive shear keeping cells in anabolic strain window (4-8%)
+3. Even load distribution across footprint (vs stress concentration at anchors)
+4. Physical space for organized collagen deposition
+
+The patch has NO structural strength. It doesn't bear load. The "bio" in "bioinductive" may really be "biomechanical." It succeeds by controlling the mechanical microenvironment at the repair site during critical early healing weeks.
+
+**Testable prediction:** Any scaffold with similar stiffness and porosity should produce similar results regardless of biological composition. A scaffold with wrong stiffness (too soft or too stiff) should fail even if biologically identical. Has anyone compared scaffolds of identical biology but different stiffness?
+
+**Connection to Gerber traction:** Both work because signal quality matters. 1mm/day tension → sarcomeres. Fast stretching → scar. Protected repair under controlled strain → tendon. Exposed repair under shear → scar. The biology follows the mechanics.
+
+---
+
 ## 2026-03-26: Ligamentization as Framework Proof
 
 ACL reconstruction with hamstring autograft: same cells, same genome, same patient, same blood supply. Only change = mechanical environment. The graft transforms from tendon to ligament-like tissue over 12-24 months. Collagen fiber diameter decreases, crimp pattern changes, type III/I ratio shifts, GAG content changes, mechanoreceptors appear that weren't present in the original tendon.
