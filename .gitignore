@@ -2,3 +2,11 @@
 .env.local
 ~$*
 *.pdf
+
+# Large binary files — prevent context bloat in Claude Code
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pptx
+*.docx
