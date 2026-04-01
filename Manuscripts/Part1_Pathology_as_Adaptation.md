@@ -72,7 +72,7 @@ A low CSA means a shorter acromion and a more medially inclined glenoid. The del
 
 **[Figure 5: Force vectors in low-CSA vs high-CSA shoulders]**
 
-The inverse relationship between cuff tears and osteoarthritis is not mutual protection. It is pathway selection. The critical shoulder angle determines the ratio of compression to shear. A high ratio preferentially loads the cuff. A low ratio preferentially loads the cartilage. Once one pathway is established, the altered geometry makes the other less likely. The pathologies diverge because they are competing branches of the same mechanical system.
+The inverse relationship between cuff tears and osteoarthritis is not mutual protection. It is pathway selection. The critical shoulder angle determines the ratio of compression to shear. A high CSA shifts the balance toward shear, preferentially loading the cuff. A low CSA shifts it toward compression, preferentially loading the cartilage. Once one pathway is established, the altered geometry makes the other less likely. The pathologies diverge because they are competing branches of the same mechanical system.
 
 **[Figure 6: CSA distribution across RCT, OA, and control groups]**
 
