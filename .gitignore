@@ -10,3 +10,7 @@
 *.gif
 *.pptx
 *.docx
+
+# Extracted text and enrichment logs (bulk data, not source)
+Articles/_text/
+Articles/_enrichment_logs/
