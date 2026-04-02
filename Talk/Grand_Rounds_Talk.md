@@ -89,6 +89,27 @@
 
 ---
 
+**Slide 6b — Muscle: the sarcomere as mechanostat**
+**[Image: Length-tension curve with sarcomere number overlay — shortened muscle (fewer sarcomeres, shifted curve) vs lengthened muscle (more sarcomeres, shifted curve)]**
+
+"Muscle does the same thing — but it remodels its contractile apparatus, not its matrix."
+
+"In 1972, Tabary immobilized cat soleus muscles in plaster casts. Shortened position: the muscle lost 40% of its sarcomeres in series within four weeks. Lengthened position: gained 19%. The muscle was adjusting the number of contractile units to maintain optimal sarcomere length at whatever position it was held."
+
+"Remove the cast — sarcomere number returns to normal within four weeks. Reimmobilize in a different position — it adjusts again. The muscle is continuously reading its length environment and remodeling."
+
+"But here is the critical experiment. Goldspink denervated the muscle before immobilizing it. Cut the nerve. No motor input, no spindle feedback, no reflex arc. The denervated muscle adapted its sarcomere number identically to the innervated muscle. Shortened: lost 35%. Lengthened: gained 25%. Denervation alone, without immobilization, changed nothing."
+
+**[Beat.]**
+
+"This is not a neural response. It is not a hormonal response. The muscle fiber is directly sensing the mechanical tension across its membrane and remodeling its internal architecture accordingly. It is mechanotransduction — the same principle, in a fourth tissue."
+
+"And Williams showed that the connective tissue responds even faster — collagen accumulation begins within days, before sarcomere loss is significant — and persists longer after the position changes. The stiffness outlasts the shortening. This is why a chronically shortened muscle doesn't just snap back when you stretch it once."
+
+> **[SPEAKER NOTE: Key citations — Tabary et al. 1972 J Physiol (cat soleus, ±40%/+19% sarcomere change); Goldspink et al. 1974 J Physiol (denervation proves myogenic mechanotransduction, not neural); Williams & Goldspink 1978 J Anat (sarcomere length in immobilized muscle); Williams & Goldspink 1984 J Anat (connective tissue changes precede and outlast sarcomere loss — collagen at 1 week, fiber diameter 46→31μm by 14 days); Williams 1988 Ann Rheum Dis (15 min stretch every 2 days prevents connective tissue accumulation but does NOT prevent sarcomere loss — dose matters). New sarcomeres added at fiber ends (tritiated adenosine, Williams & Goldspink 1973). This sets up the Gerber traction experiment in Act 2 — continuous sub-threshold tension restores sarcomeres and arrests fatty infiltration.]**
+
+---
+
 **Slide 7 — The punchline**
 
 "Wolff's Law. Davis's Law. The Hueter-Volkmann principle. Frost's Mechanostat. Every training program teaches these as separate rules for separate tissues."
@@ -138,6 +159,10 @@
 **[Image: CSA scatter plots, AUC 0.92]**
 
 "Moor published this in 2013. CSA in controls: 33 degrees. Cuff tears: 38. OA: 28. AUC 0.92. And there is a dose-response: isolated supraspinatus tears average 36 degrees. Combined supraspinatus-infraspinatus tears: 40. The bigger the angle, the bigger the tear."
+
+"And the same principle applies on the humeral side. The greater tuberosity angle — how far the GT projects superolaterally relative to the head — independently predicts cuff tears with comparable effect sizes. GTA and CSA don't correlate. Different bones, different vectors, same machinery."
+
+> **[SPEAKER NOTE: Keep this to one sentence in delivery. Detail for Q&A: Cunningham 2018 — GTA >70° → 93-fold odds of RCT (n=71, JSES). Cunningham 2021 — GTA + CSA >103° → 97-fold odds (n=104, OTSR). The two are independent and uncorrelated (r=0.158, p=0.82). Ma 2022 showed RCT patients have both smaller humeral heads (tighter tendon wrapping radius → articular-side compression) and larger GT radii (more lateral projection → subacromial encroachment) — DRR >1.38 → 11.3-fold odds (n=154, Orthop Surg). Yoo 2019 (n=315) found no differentiation by delamination pattern — both parameters predict tears generally but do not sort articular vs bursal. The humeral and scapular morphologies appear to be independent risk inputs to the same mechanical system.]**
 
 ---
 
@@ -359,6 +384,10 @@
 **Q: "A resident shouldn't be making claims this broad."**
 
 "I'm not making claims — I'm describing patterns in published literature and proposing a framework that connects them. Every molecular finding was published in Cell, Nature, Science, or PNAS. Every clinical finding in JBJS, JSES, or Arthroscopy. The framework makes specific, falsifiable predictions. If those predictions are wrong, it fails. That's a reasonable thing for anyone to propose."
+
+**Q: "You mentioned the greater tuberosity — how does that interact with CSA?"**
+
+"Cunningham defined the greater tuberosity angle in 2018. GTA above 70 degrees gives a 93-fold odds ratio for cuff tear — comparable to CSA. In 2021 he combined them: GTA plus CSA above 103 gives 97-fold odds. Crucially, the two don't correlate — they measure different bones contributing independently to the force environment. Ma showed that cuff tear patients actually have smaller humeral heads and larger GT projections, so both the wrapping compression on the articular side and the subacromial encroachment from above are increased simultaneously. What we don't yet have is tear-pattern differentiation — both predict tears generally but don't cleanly sort articular versus bursal. The mechanism is more complex than a simple two-variable sorting."
 
 **Q: "What about the kinetic chain — is there evidence that fixing proximal deficits actually prevents shoulder pathology?"**
 
